@@ -1,0 +1,6 @@
+{
+    "_id" : "ObjectId",
+    "name" : "String",
+    "age" : "Int32",
+    "status" : "Int32, IntEnum ACTIVE=1 | DEACTIVE=2 | SUSPEND=3"
+}
